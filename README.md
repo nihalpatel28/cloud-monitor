@@ -56,11 +56,6 @@ This project demonstrates the fundamentals of cloud security monitoring and how 
 
 # Project Screenshots
 <img width="1917" height="875" alt="Screenshot 2026-07-28 152522" src="https://github.com/user-attachments/assets/88dc446e-4f0a-4884-ba13-3c7607076b26" />
-
-<p align="center">
-<img src="images/login-page.png" width="850">
-</p>
-
 ### Default Login Credentials
 
 | Username | Password |
@@ -74,9 +69,6 @@ This project demonstrates the fundamentals of cloud security monitoring and how 
 
 <img width="1917" height="870" alt="Screenshot 2026-07-28 152731" src="https://github.com/user-attachments/assets/5d2a93ae-3800-4d34-ada4-58f0460b958e" />
 
-<p align="center">
-<img src="images/dashboard.png" width="850">
-</p>
 
 ---
 
